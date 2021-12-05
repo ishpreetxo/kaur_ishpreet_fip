@@ -1,0 +1,117 @@
+body
+{
+    margin:0px;
+    font-family: "Gill Sans", sans-serif;
+}
+#logo
+{
+    height: 100px;
+    width: 149px;
+}
+#collapsibleNavbar
+{
+    padding: 7px;
+    font-family: "Gill Sans", sans-serif;
+    border-radius: 15px;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255 / 94%);
+}
+.btn {
+    padding: 13px;
+    margin: 10px;
+    border-radius: 15px;
+}
+h1, h2, h3, h5{
+    text-align: center;
+}
+h4
+{
+    color: #fbda00;
+    text-align: center;
+}
+.simple
+{
+    margin: 20px;
+    border-radius: 20px;
+}
+hr {
+    border: 0;
+    border-top: 1px solid rgb(255 255 255 / 33%);
+    margin: 20px 0px 20px 2px;
+}
+.col
+{
+    text-align: center;
+    
+}
+.bg { 
+    margin: 20px;
+    border-radius: 20px;
+    background-image: url("/images/hero_image.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 552px;
+}
+.img-fluid {
+    height: auto;
+}
+.deal
+{
+    border-radius: 20px;
+    height: 400px;
+}
+.row {
+    margin: 0px !important;
+}
+p{
+    text-align: center;
+}
+.bg-warning
+{
+    border-radius: 20px;
+}
+.fa, .fas, .fab {
+    color: red;
+    font-weight: 900;
+    font-size: 30px;
+}
+.info
+{
+    text-align: left;
+    margin-top: -30px;
+    margin-left: 45px;
+}
+.rounded {
+    border-radius: 60px!important;
+}
+.img-thumbnail {
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    max-width: 100%;
+    height: 380px;
+}
+.pl-5, .px-5 {
+    padding-left: 5rem!important;
+    padding-right: 5rem!important;
+
+}
+ul
+{
+    list-style-type: none;
+    font-weight: 600;
+}
+.btnshop
+{
+    width: 137px;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.product 
+{
+    margin-top: 70px
+}
